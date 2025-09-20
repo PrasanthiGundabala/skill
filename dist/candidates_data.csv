@@ -1,0 +1,11 @@
+Name,Email,Phone,Location,Experience,Job Role,Relevance Score,Verdict,Skills,Applied Date,Missing Skills
+Priya Sharma,priya.sharma@email.com,+91 9876543210,Bangalore,3+ years,Senior Software Engineer,92,High,"React, Node.js, Python, MongoDB",2024-03-15,"AWS"
+Arjun Patel,arjun.patel@email.com,+91 9876543211,Hyderabad,2+ years,Frontend Developer,85,High,"JavaScript, React, CSS, Git",2024-03-14,"TypeScript"
+Sneha Reddy,sneha.reddy@email.com,+91 9876543212,Pune,4+ years,Data Analyst,78,Medium,"Python, SQL, Excel, Power BI",2024-03-13,"Tableau, Statistics"
+Rahul Kumar,rahul.kumar@email.com,+91 9876543213,Delhi NCR,1+ years,DevOps Engineer,65,Low,"Docker, Linux, Git",2024-03-12,"Kubernetes, AWS, Jenkins"
+Anita Singh,anita.singh@email.com,+91 9876543214,Mumbai,5+ years,Full Stack Developer,88,High,"React, Node.js, PostgreSQL, AWS",2024-03-11,"Docker"
+Vikram Joshi,vikram.joshi@email.com,+91 9876543215,Chennai,2+ years,UI/UX Designer,72,Medium,"Figma, Adobe XD, HTML, CSS",2024-03-10,"React, JavaScript"
+Meera Nair,meera.nair@email.com,+91 9876543216,Bangalore,6+ years,Project Manager,81,High,"Agile, Scrum, JIRA, Leadership",2024-03-09,"Technical Skills"
+Rajesh Gupta,rajesh.gupta@email.com,+91 9876543217,Hyderabad,3+ years,Backend Developer,79,Medium,"Java, Spring Boot, MySQL, Redis",2024-03-08,"Microservices, Docker"
+Kavya Reddy,kavya.reddy@email.com,+91 9876543218,Pune,4+ years,Mobile Developer,84,High,"React Native, Flutter, iOS, Android",2024-03-07,"Kotlin, Swift"
+Suresh Kumar,suresh.kumar@email.com,+91 9876543219,Delhi NCR,2+ years,QA Engineer,71,Medium,"Selenium, Jest, Cypress, Manual Testing",2024-03-06,"Automation, Performance Testing"
